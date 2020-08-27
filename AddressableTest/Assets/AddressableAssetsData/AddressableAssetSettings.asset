@@ -61,7 +61,7 @@ MonoBehaviour:
       - m_Id: 105dce1286b286847973642c75cb40b1
         m_Value: ServerData/[BuildTarget]
       - m_Id: 8823ae108ec298949951c233ff101c6b
-        m_Value: https://github.com/downloads/HermitMaskTinHo/host/hostingAddress/[BuildTarget]
+        m_Value: https://github.com/HermitMaskTinHo/host/hostingAddress/v0.7.1/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: ed18fbbf304be52468afafb77d24294b
       m_Name: BuildTarget
